@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/agenda.ico</file>
+        <file>icon/equi.ico</file>
+        <file>icon/exit.ico</file>
+        <file>icon/group.ico</file>
+        <file>icon/guest.ico</file>
+        <file>icon/home.ico</file>
+        <file>icon/logo.png</file>
+        <file>icon/menu.ico</file>
+        <file>icon/money.ico</file>
+	<file>icon/back.jpg</file>
+    </qresource>
+</RCC>
